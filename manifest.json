@@ -1,15 +1,16 @@
 {
   "name": "Initiative Roller",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "manifest_version": 1,
   "author": "Ted",
   "description": "Rolls initiative for every character in the scene using each token's Owl Trackers Init value, and lists them in order.",
-  "icon": "icon.svg",
+  "icon": "https://tedlyng.github.io/initiative-roll/icon.svg",
   "action": {
     "title": "Initiative Roller",
-    "icon": "icon.svg",
-    "popover": "index.html",
+    "icon": "https://tedlyng.github.io/initiative-roll/icon.svg",
+    "popover": "https://tedlyng.github.io/initiative-roll/index.html",
     "width": 360,
     "height": 620
-  }
+  },
+  "homepage_url": "https://github.com/tedlyng/initiative-roll"
 }
